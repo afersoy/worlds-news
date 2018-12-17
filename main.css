@@ -27,13 +27,17 @@ a:hover {
    
 }
 #baslik {
+/* 
     padding-top: 10px;
+*/
+    padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     vertical-align: middle;
 }
 h1  {
-
+/*
 margin-bottom: 25px;
+*/
 }
 h2 {
     margin-top: 15px;
@@ -70,7 +74,7 @@ p {
 }
 header {
     background-color: #cf142b;
-    height: 90px;
+    height: 100px;
     width: 100%;
     align-items: center;
     color: white;
